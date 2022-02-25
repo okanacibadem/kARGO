@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kARGO", "kARGO\kARGO.csproj", "{0471CC7A-A280-4F52-8776-B68DED584948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UP.ORM", "UP.ORM\UP.ORM.csproj", "{75FC5DEB-1740-45FC-BAF8-556061455BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0471CC7A-A280-4F52-8776-B68DED584948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0471CC7A-A280-4F52-8776-B68DED584948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0471CC7A-A280-4F52-8776-B68DED584948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0471CC7A-A280-4F52-8776-B68DED584948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75FC5DEB-1740-45FC-BAF8-556061455BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FC5DEB-1740-45FC-BAF8-556061455BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FC5DEB-1740-45FC-BAF8-556061455BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FC5DEB-1740-45FC-BAF8-556061455BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B377C22-0063-401D-A1A4-769963D2D6F4}
+	EndGlobalSection
+EndGlobal
